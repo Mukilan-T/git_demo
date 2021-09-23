@@ -1,9 +1,12 @@
 Welcome
-<<<<<<< HEAD
+
 New line added Second
 3 rd line inserted
-=======
+
+4 th added now
+
+
 Second line edited
 Third line added
 New line added Second 2
->>>>>>> a31bda6fef4a01ffac9557d4e4bff358dd787deb
+
