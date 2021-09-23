@@ -1,8 +1,6 @@
 Welcome
-
 New line added Second
 3 rd line inserted
-
 4 th added now
 Second line edited
 Third line added
